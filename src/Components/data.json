@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Which device is required for the Internet connection?",
+    "options": [
+      { "ansOption": "Modem", "isCorrect": true },
+      { "ansOption": "Router", "isCorrect": false },
+      { "ansOption": "LAN Cable", "isCorrect": false },
+      { "ansOption": "Pen Drive", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      { "ansOption": "Modem", "isCorrect": false },
+      { "ansOption": "Paris", "isCorrect": true },
+      { "ansOption": "LAN Cable", "isCorrect": false },
+      { "ansOption": "Pen Drive", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Who wrote the famous play “Romeo and Juliet?",
+    "options": [
+      { "ansOption": "Modem", "isCorrect": false },
+      { "ansOption": "Paris", "isCorrect": false },
+      { "ansOption": "William Shakespeare", "isCorrect": true },
+      { "ansOption": "Pen Drive", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": [
+      { "ansOption": "Modem", "isCorrect": false },
+      { "ansOption": "Paris", "isCorrect": false },
+      { "ansOption": "William Shakespeare", "isCorrect": false },
+      { "ansOption": "Japan", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "What do you call the study of stars, planets, and space?",
+    "options": [
+      { "ansOption": "Modem", "isCorrect": false },
+      { "ansOption": "Jupitar", "isCorrect": true },
+      { "ansOption": "William Shakespeare", "isCorrect": false },
+      { "ansOption": "Japan", "isCorrect": false }
+    ]
+  }
+]
